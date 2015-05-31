@@ -1,0 +1,7 @@
+{
+    "name": "app",
+    "targetType": "executable",
+    "dflags": [ "-unittest" ],
+    "sourcePaths": [ "." ],
+    "dependencies" : { "desflow": { "path" : ".." } }
+}
